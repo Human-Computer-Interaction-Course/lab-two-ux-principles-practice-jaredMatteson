@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+ol,p{
+    text-align: justify;
+    color: darkgray;
+    
+}
+li{
+    font-size: 150%;
+}
+#Responses{
+
+    text-align: center;
+}
